@@ -38,3 +38,19 @@ Admin
 - ユーザー一覧が表示されます
 - 投稿記事一覧が表示されます
 
+# 使用言語
+- HTML&CSS
+- Ruby
+- Javascript
+- フレームワーク
+- Ruby on rails (5.2.4)
+
+# Gem
+- device
+- refile
+- refile-mini-magick
+- bootstrap
+- jquery
+- pry-rails
+- rubocop
+- paranoia
